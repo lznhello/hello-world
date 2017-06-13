@@ -1,2 +1,3 @@
 # hello-world
-hello world for learning GitHub
+
+This is a repository for lznhello to learn basic GitHub operations.
